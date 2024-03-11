@@ -1,4 +1,4 @@
-# Stress-Test-on-AWS-Linux
+# Stress-Test-on-AWS-Linux :skull:
 
 Install the "stress" tool.
 ```bash
